@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="styleguide.css" />
+    <link rel="stylesheet" href="style3.css" />
+    <style>
+      .text-wrapper:hover {
+        color: #b63d3d;
+      }
+    </style>
+<style>
+  #bird {
+    transition: transform 0.5s ease; 
+  }
+</style>
+  </head>
+  <body>
+    <div class="page">
+      <div class="desktop-wrapper">
+        <div class="desktop">
+          <div class="overlap">
+            <div class="overlap-group">
+              <div class="text-wrapper">SUBSCRIBE</div>
+              <img class="vector" src="https://c.animaapp.com/5dzLjrXM/img/vector.svg" />
+            </div>
+            <div class="div">
+              <div class="text-wrapper-2">Mountains community</div>
+              <div class="rectangle"></div>
+            </div>
+            <div class="mountains"><img class="group" src="https://c.animaapp.com/5dzLjrXM/img/group-11-3.svg" /></div>
+          </div>
+          <div class="overlap-2">
+            <div class="text-wrapper-3"><a href="index.html">Page1</a></div>
+            <div class="text-wrapper-4"><a href="index2.html">Page2</a></div>
+            <div class="text-wrapper-5">Page3</div>
+            <div class="text-wrapper-6"><a href="index4.html">Page4</a></div>
+            <div class="text-wrapper-7"><a href="index5.html">Page5</a></div>
+            <div class="rectangle-2"></div>
+          </div>
+          <div class="overlap-group-2">
+            <div class="div-wrapper"><div class="text-wrapper-8"><a href="https://www.britannica.com/science/mountain-landform">OPEN LINK</a></div></div>
+            <div class="rectangle-3"></div>
+            <div class="text-wrapper-9">Wild</div>
+            <div class="text-wrapper-10">Tops</div>
+            <div class="text-wrapper-11">Trails</div>
+            <div class="text-wrapper-12">Tours</div>
+            <img id="bird" class="bird" src="https://c.animaapp.com/5dzLjrXM/img/bird@2x.png" />
+          </div>
+          <img class="image" src="https://c.animaapp.com/5dzLjrXM/img/image-7.png" />
+          <div class="overlap-3">
+            <div class="rectangle-wrapper">
+              <img class="img" src="https://c.animaapp.com/5dzLjrXM/img/rectangle-69-4@2x.png" />
+            </div>
+            <div class="img-wrapper">
+              <img class="img" src="https://c.animaapp.com/5dzLjrXM/img/rectangle-69-1@2x.png" />
+            </div>
+            <div class="overlap-4">
+              <p class="p">Mountains often serve as geographic features that define natural borders of countries.</p>
+              <p class="text-wrapper-13">
+                Their height can influence weather patterns, stalling storms that roll off the oceans.
+              </p>
+              <div class="rectangle-4"></div>
+              <div class="group-wrapper">
+                <img class="group-2" src="https://c.animaapp.com/5dzLjrXM/img/group-11-4.svg" />
+              </div>
+            </div>
+          </div>
+          <div class="overlap-5"><div class="text-wrapper-14">Feeedback</div></div>
+          <div class="overlap-6"><div class="text-wrapper-15">Share experience</div></div>
+        </div>
+      </div>
+    </div>
+    <script>
+      const bird = document.getElementById('bird');
+    
+      let rotation = 0; 
+    
+      bird.addEventListener('click', () => {
+        rotation += 360; // Змінити кут обертання на 45 градусів при кожному натисканні
+        bird.style.transform = `rotate(${rotation}deg)`; // Застосувати новий кут обертання до пташки
+      });
+    </script>
+    
+  </body>
+</html>

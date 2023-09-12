@@ -11,7 +11,8 @@ My aim was to construct a layout, which will be adequate to the given photo. Mak
 - constructed layot with the help of HTML and CSS principles;
 - added hoover to the component - mountains;
 - setted interacrion between pages;
-  ![Page1](https://i.imgur.com/xaRnaa8.mp4)
+
+![Page1](https://i.imgur.com/xaRnaa8.mp4)
   
 
 

@@ -7,3 +7,11 @@ My aim was to construct a layout, which will be adequate to the given photo. Mak
   <img src="https://i.imgur.com/yAlXNlF.png" alt="Screenshot of the set task" width="300" />
 </p>
 
+### 1st_Page_Description
+- constructed layot with the help of HTML and CSS principles;
+- added hoover to the component - mountains;
+- setted interacrion between pages;
+  ![Page1](https://i.imgur.com/xaRnaa8.mp4)
+  
+
+

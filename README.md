@@ -12,7 +12,7 @@ My aim was to construct a layout, which will be adequate to the given photo. Mak
 - added hoover to the component - mountains;
 - setted interacrion between pages;
 
-![Page1](![REC-20230913000517](https://github.com/Uliana200407/Labwork1Web/assets/114984015/34bc7181-c0e7-4859-976b-805913a2881b))
+https://github.com/Uliana200407/Labwork1Web/assets/114984015/34bc7181-c0e7-4859-976b-805913a2881b
   
 
 

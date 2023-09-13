@@ -28,8 +28,8 @@ My aim was to construct a layout, which will be adequate to the given photo. Mak
 - added odered list;
 ![GIF Recording 2023-09-13 at 11 26 12 AM](https://github.com/Uliana200407/Labwork1Web/assets/114984015/361ea685-766e-426c-a87b-b10e5a02ee71)
 ### 5th_Page_Description
-- added gif preview
-- added links to the titles at the footer
+- added gif preview;
+- added links to the titles at the footer;
 ![GIF Recording 2023-09-13 at 11 31 00 AM](https://github.com/Uliana200407/Labwork1Web/assets/114984015/4cbc3dc0-d367-4758-adb6-3d897eecfabb)
 
 

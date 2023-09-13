@@ -9,10 +9,15 @@ My aim was to construct a layout, which will be adequate to the given photo. Mak
 
 ### 1st_Page_Description
 - constructed layot with the help of HTML and CSS principles;
-- added hoover to the component - mountains;
-- setted interacrion between pages;
+- added hoovering to the component - mountains;
+- created main logic;
+- setted interaction between pages;
 
-https://github.com/Uliana200407/Labwork1Web/assets/114984015/34bc7181-c0e7-4859-976b-805913a2881b
-  
+![REC-20230913000517](https://github.com/Uliana200407/Labwork1Web/assets/114984015/2b387f34-e7f3-45eb-8ad0-dac6a997f2e1)
+### 2nd_Page_Description
+
+
+
+
 
 

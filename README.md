@@ -30,6 +30,7 @@ My aim was to construct a layout, which will be adequate to the given photo. Mak
 ### 5th_Page_Description
 - added gif preview
 - added links to the titles at the footer
+![GIF Recording 2023-09-13 at 11 31 00 AM](https://github.com/Uliana200407/Labwork1Web/assets/114984015/4cbc3dc0-d367-4758-adb6-3d897eecfabb)
 
 
 

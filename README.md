@@ -21,9 +21,16 @@ My aim was to construct a layout, which will be adequate to the given photo. Mak
   ![GIF Recording 2023-09-13 at 10 52 43 AM](https://github.com/Uliana200407/Labwork1Web/assets/114984015/a88f67f2-b93f-4421-a46e-c26dd31a054a)
 
 ### 3rd_Page_Description
-- added spinner, while clicking on a bird on the footer;
+- added spinner, while clicking on a bird at the footer;
 - changed states, while clicking on a subscribe field;
   ![GIF Recording 2023-09-13 at 11 17 11 AM](https://github.com/Uliana200407/Labwork1Web/assets/114984015/45ebe372-92ce-4ebc-a1ef-00b6aeec2e4f)
+### 4th_Page_Description
+- added odered list;
+![GIF Recording 2023-09-13 at 11 26 12 AM](https://github.com/Uliana200407/Labwork1Web/assets/114984015/361ea685-766e-426c-a87b-b10e5a02ee71)
+### 5th_Page_Description
+- added gif preview
+- added links to the titles at the footer
+
 
 
 

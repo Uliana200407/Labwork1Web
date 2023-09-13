@@ -18,12 +18,12 @@ My aim was to construct a layout, which will be adequate to the given photo. Mak
 ### 2nd_Page_Description
 - added the function of darkening photos, while hoovering them;
 - added link;
-  ![GIF Recording 2023-09-13 at 11 17 11 AM](https://github.com/Uliana200407/Labwork1Web/assets/114984015/45ebe372-92ce-4ebc-a1ef-00b6aeec2e4f)
+  ![GIF Recording 2023-09-13 at 10 52 43 AM](https://github.com/Uliana200407/Labwork1Web/assets/114984015/a88f67f2-b93f-4421-a46e-c26dd31a054a)
 
 ### 3rd_Page_Description
 - added spinner, while clicking on a bird on the footer;
 - changed states, while clicking on a subscribe field;
-  ![GIF Recording 2023-09-13 at 10 52 43 AM](https://github.com/Uliana200407/Labwork1Web/assets/114984015/a88f67f2-b93f-4421-a46e-c26dd31a054a)
+  ![GIF Recording 2023-09-13 at 11 17 11 AM](https://github.com/Uliana200407/Labwork1Web/assets/114984015/45ebe372-92ce-4ebc-a1ef-00b6aeec2e4f)
 
 
 

@@ -9,7 +9,6 @@
 .page .div {
   background-color: #f1faee;
   width: 1280px;
-  height: 1024px;
   position: relative;
 }
 
@@ -317,10 +316,10 @@
 
 .page .rectangle-4 {
   position: absolute;
-  width: 831px;
-  height: 680px;
+  width: 100%;
+  height: auto; /* Змінено на auto */
   top: 0;
-  left: 191px;
+  left: 0;
   background-color: #f1faee;
   border: 1px solid;
   border-color: #5688a5;
@@ -337,8 +336,9 @@
   font-size: 36px;
   letter-spacing: 0;
   line-height: normal;
+  height: 500px; /* Змінено висоту на фіксовану висоту, наприклад, 500px */
+  overflow-y: auto; /* Додано overflow-y */
 }
-
 .page .rectangle-5 {
   position: absolute;
   width: 192px;
@@ -387,6 +387,8 @@
   letter-spacing: 0;
   line-height: normal;
 }
+
+
 
 .page .group-wrapper {
   display: inline-flex;
